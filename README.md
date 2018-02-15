@@ -1,4 +1,4 @@
-# Recipes
+# Recipes list
 
 This repository contains recipes for some foods I like.
 
